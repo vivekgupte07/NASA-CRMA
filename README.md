@@ -35,8 +35,13 @@ Your report is clear and well written. Good job."_
 
 
 ### Applications in Actual Scenarios
+Doctors Office
 ![Doctors Treating a Patient Final](https://user-images.githubusercontent.com/67819132/150005752-461f2699-37b3-467a-bad9-24cd95a6f0c4.JPG)
+
+Workstation
 ![working_in_workstation](https://user-images.githubusercontent.com/67819132/150005761-3d4e8acf-f3f9-424f-86ce-0dfd3a2c3c03.JPG)
+
+Decks
 ![both decks](https://user-images.githubusercontent.com/67819132/150005775-ed7b7922-e41c-472a-977b-6490dc571028.png)
 
 [Restraint and Mobility Aid System.pdf](https://github.com/vivekgupte07/NASA-CRMA/files/7891933/Restraint.and.Mobility.Aid.System.pdf)

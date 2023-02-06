@@ -1,4 +1,4 @@
-# NASA Challenge : Common Restraint And Mobility Aid Systens for Multi-Gravity Environments
+# NASA Challenge : Common Restraint And Mobility Aid Systems for Multi-Gravity Environments
 
 ## [The Challenge](https://grabcad.com/challenges/nasa-challenge-a-common-restraint-and-mobility-aid-system-for-multiple-gravity-environments):
 - Develop a common solution: a single system that will restrain crew members in microgravity, while being unobtrusive in gravity; that will enable astronauts to translate between decks on the Moon or Mars, but not be a passageway obstruction in microgravity. -
